@@ -8,7 +8,7 @@ return {
 
 	window_decorations = "RESIZE",
 	cell_width = 1.0,
-	line_height = 1.1,
+	line_height = 1.0,
 
 	window_padding = {
 		left = 0,
