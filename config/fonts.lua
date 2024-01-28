@@ -4,7 +4,7 @@ return {
   font = wezterm.font_with_fallback({
     -- { family = "Zed Mono", assume_emoji_presentation = false },
     {
-      family = "Hack Nerd Font Mono",
+      family = "Fira Code",
       assume_emoji_presentation = true,
     },
     -- { family = "Symbols Nerd Font Mono" }
