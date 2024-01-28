@@ -4,7 +4,7 @@ local custom_colors = require("colors.custom")
 return {
 	color_scheme = "Everforest Dark (Gogh)",
 
-	force_reverse_video_cursor = true,
+	-- force_reverse_video_cursor = true,
 
 	window_decorations = "RESIZE",
 	cell_width = 1.0,
